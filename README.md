@@ -4,7 +4,7 @@
 Spotify Clone is a web-based music streaming application that allows users to listen to music, search for songs, create playlists, and manage their favorite tracks. The system was developed using PHP and MySQL to provide an interactive and user-friendly music streaming experience.
 
 ## Live Demo
-music-stream-app.infinityfreeapp.com
+https://music-stream-app.infinityfreeapp.com
 
 ## GitHub Repository
 https://github.com/Vina-Trisha-Escaner/Escaner_Escoton_Spotify_Project
